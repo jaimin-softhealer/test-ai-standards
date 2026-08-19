@@ -1,6 +1,6 @@
 # Company AI Rules for Gemini/Codex
 
-**Version 2.0** | **Last Updated**: 2026-08-18
+**Version 2.0** | **Last Updated**: 2026-08-19
 
 These instructions are centrally managed. Edit the canonical rules file instead of this generated file. 
 
